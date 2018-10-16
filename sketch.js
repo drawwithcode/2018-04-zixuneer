@@ -86,6 +86,5 @@ function Ball(tempX, tempY, tempW){
       this.speed = this.speed * -0.97;
   }
 
-
  }
 }
